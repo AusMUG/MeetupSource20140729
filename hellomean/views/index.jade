@@ -1,0 +1,18 @@
+extends layout
+
+block content
+  h1= model.title
+  p Welcome to #{model.title}
+  p Hello MEAN!
+
+
+  ul
+    each doc in model.docs
+      li #{doc.fname} #{doc.lname} is #{doc.age} old!
+
+  div(style="border:1px solid black;padding:5px;", ng-app)
+    input(type="text", ng-model="ngModel")
+    p {{ngModel}}
+
+
+  script(type="text/javascript", src="javascripts/angular.js")

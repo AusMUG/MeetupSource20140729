@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mon",
+				"mongoModule"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hellomean/package.json",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hellomean/app.js",
+			"settings":
+			{
+				"buffer_size": 1606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hellomean/views/index.jade",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hellomean/routes/index.js",
+			"settings":
+			{
+				"buffer_size": 603,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/collaborare/monico/work/temp/testangular/temp.html",
+		"/Users/collaborare/monico/work/mean_drills/4drill/4drill/package.json",
+		"/Users/collaborare/monico/work/mean_drills/4drill/4drill/views/index.jade",
+		"/Users/collaborare/monico/work/mean_drills/4drill/4drill/routes/index.js",
+		"/Users/collaborare/monico/work/mean_drills/4drill/4drill/routes/users.js",
+		"/Users/collaborare/monico/work/mean_drills/4drill/4drill/bin/www",
+		"/Users/collaborare/monico/work/mean_drills/temp/temp.html",
+		"/Users/collaborare/monico/work/mean_drills/3drill/3drill/monico.js",
+		"/Users/collaborare/monico/work/mean_drills/3drill/3drill/package.json",
+		"/Users/collaborare/monico/work/mean_drills/3drill/3drill/app.js",
+		"/Users/collaborare/monico/work/mean_drills/3drill/3drill/public/stylesheets/style.css",
+		"/Users/collaborare/monico/work/mean_drills/3drill/3drill/app.j",
+		"/Users/collaborare/monico/work/mean_drills/2drill/2drill/package.json",
+		"/Users/collaborare/monico/work/temp/nodetest2/quickdrill/routes/index.js",
+		"/Users/collaborare/monico/work/temp/nodetest2/quickdrill/views/index.jade",
+		"/Users/collaborare/monico/work/mean_drills/drill1/drill1.sublime-project",
+		"/Users/collaborare/monico/work/temp/nodetest2/quickdrill.sublime-project",
+		"/Users/collaborare/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/collaborare/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/collaborare/monico/work/mean_drills/drill1/drill1/routes/index.js",
+		"/Users/collaborare/monico/work/temp/nodetest2/quickdrill/app.js",
+		"/Users/collaborare/monico/work/mean_drills/drill1/drill1/app.js",
+		"/Users/collaborare/monico/work/temp/nodetest2/quickdrill/package.json",
+		"/Users/collaborare/monico/work/temp/nodetest2/quickdrill/views/users.jade",
+		"/Users/collaborare/monico/work/temp/nodetest2/quickdrill/views/test.html",
+		"/Users/collaborare/monico/work/temp/nodetest2/quickdrill/routes/users.js",
+		"/Users/collaborare/monico/work/temp/nodetest1/nodetest1/views/index.jade",
+		"/Users/collaborare/monico/work/temp/nodetest1/nodetest1/routes/index.js",
+		"/Users/collaborare/monico/work/temp/nodetest1/nodetest1/app.js",
+		"/Users/collaborare/monico/work/temp/nodetest1/nodetest1/routes/users.js",
+		"/Users/collaborare/monico/work/temp/nodetest1/nodetest1/routes/myUsersRts.js",
+		"/Users/collaborare/monico/work/temp/nodetest1/nodetest1/views/myUsers.jade",
+		"/Users/collaborare/monico/work/temp/nodetest1/nodetest1/package.json",
+		"/Users/collaborare/monico/work/temp/nodetest1/nodetest1.sublime-project",
+		"/Users/collaborare/monico/work/amug/notes.txt",
+		"/Users/collaborare/monico/work/temp/temp/temp.html",
+		"/Users/collaborare/monico/work/temp/temp3/myapp/views/index.jade",
+		"/Users/collaborare/monico/work/temp/temp3/myapp/temp.txt",
+		"/Users/collaborare/monico/work/amug/OfficialNotes.txt",
+		"/Users/collaborare/monico/work/nodejs/experiment/httpserver/:Users:collaborare:monico:work:amug:notes.txt",
+		"/Users/collaborare/monico/work/nodejs/experiment/site4.sublime-project",
+		"/Users/collaborare/monico/work/nodejs/experiment/site4/app.js",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/routes/index.js",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/bin/www",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/app.js",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/routes/home.js",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/routes/users.js",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/views/layout.jade",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/cam.html",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/views/home.jade",
+		"/Users/collaborare/monico/work/nodejs/experiment/mywebsite/mywebsite/newfile.js",
+		"/Users/collaborare/monico/work/temp/temp.txt",
+		"/Users/collaborare/.profile",
+		"/Users/collaborare/monico/work/nodejs/experiment/cwbuecheler.com/node-v0.10.28.sublime-project",
+		"/Volumes/d0_mam_work/work/rsync.txt",
+		"/Volumes/d0_mam_work/work/delicious/delicious.20140611_1641.html",
+		"/Users/collaborare/temp.txt",
+		"/Volumes/My Passport/monico_new_20140610/pwork/sinfo/Financial/RBFCU/AccountCa200801ToIndef/AccountsDistributions/AccountsDistribution.txt",
+		"/Volumes/My Passport/monico_new_20140610/pwork/sinfo/Financial/RBFCU/AccountCa200801ToIndef/AccountsDistributions/:Users:collaborare:Documents:monico:work:readme.mam.txt",
+		"/Users/collaborare/Downloads/Html5up/prologue/untitled folder/html5up-prologue/index.html",
+		"/Users/collaborare/Downloads/Html5up/prologue/html5up-prologue/index.html",
+		"/Users/collaborare/Downloads/Html5up/prologue/untitled folder/html5up-prologue/js/init.js",
+		"/Users/collaborare/Documents/monico/work/temp/jQMobile/index.html",
+		"/Users/collaborare/Documents/:Users:collaborare:Documents:monico:work:exp:mam1028.github.io:index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"previou",
+			"prev",
+			"recent",
+			"tab",
+			"express",
+			"http",
+			"router",
+			"ro",
+			"router",
+			"type",
+			"<div data-role=\"fieldcontain\">\n",
+			"fieldcontain"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"theRouter"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hellomean/package.json",
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hellomean/app.js",
+					"settings":
+					{
+						"buffer_size": 1606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hellomean/views/index.jade",
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "hellomean/routes/index.js",
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
