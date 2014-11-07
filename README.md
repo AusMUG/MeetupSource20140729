@@ -1,6 +1,6 @@
 Update: October 29, 2014
 ========================
-Using this for AusMug project team members perusal and acclimation to our github projects.  
+Using this for AusMug project team members perusal and acclimation to our github projects!
 
 
 MeetupSource20140729
