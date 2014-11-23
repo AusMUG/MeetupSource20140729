@@ -28,5 +28,5 @@ That's all for now!  I'm excited to hear about anyone that ran this successfully
 own version of a "Helo, MEAN!" app!  Please let us know!
 
 Talk to you all soon!
---Monico
+--Monico M.
 
